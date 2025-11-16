@@ -11,3 +11,6 @@ I have a purchase table inside powerBI with the following columns: payment.provi
 
 6.can you suggest some matte colors for revenue vs the refund chart
 
+7.I have a table with subscriptions where subscription_type is a number where 2 is annual , 3 is monthly and 0 is  a lifetime I need a DAX to turn these numbers into text
+
+8.Can you explain the difference between measures and calculated column
