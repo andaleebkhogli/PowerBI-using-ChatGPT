@@ -21,3 +21,5 @@ I have a purchase table inside powerBI with the following columns: payment.provi
 11.i want churn count
 12.i want churn rate using churn count and total subscriptions
 
+13.please suggest visulaisation to churn i want to show it on monthly basis
+
