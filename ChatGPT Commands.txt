@@ -2,3 +2,12 @@ I have a purchase table inside powerBI with the following columns: payment.provi
 
 
 2.I need to seperate Net Revenue from Refund. to do that we're looking at the refund.date if the refund.date is blank that means the record is Net Revenue and if it has a date it means the record is a refund  
+
+3.I want to build a chart that shows the the Net Revenuse vs Refund on monthly basis
+
+4.I dont like the way Purcase Month column is displayed can i use purchase_date directly
+
+5.the chart has many data is there a specific way i can filter my data to a specific period i.e months between etc?
+
+6.can you suggest some matte colors for revenue vs the refund chart
+

@@ -1,1 +1,11 @@
 1.Seprate refunds from purchases
+nb: by taking notes that if record has refund date is refunded if not it's a net revenue
+
+DAX:
+Revenue Type = 
+IF(
+    ISBLANK('Purchases'[refunded.date]),
+    "Net Revenue",
+    "Refund"
+)
+
