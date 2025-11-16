@@ -1,0 +1,4 @@
+I have a purchase table inside powerBI with the following columns: payment.provider, price,  purchase.date, purchase_id, recieved.date, refund_id, refunded.date, student_id, subscription_id, subscription_type
+
+
+2.I need to seperate Net Revenue from Refund. to do that we're looking at the refund.date if the refund.date is blank that means the record is Net Revenue and if it has a date it means the record is a refund  
