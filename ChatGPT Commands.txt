@@ -14,3 +14,10 @@ I have a purchase table inside powerBI with the following columns: payment.provi
 7.I have a table with subscriptions where subscription_type is a number where 2 is annual , 3 is monthly and 0 is  a lifetime I need a DAX to turn these numbers into text
 
 8.Can you explain the difference between measures and calculated column
+
+9.how can i increase my canvas size in my power bi report?
+
+10.I want to calculate the churn rate from the subscription table
+11.i want churn count
+12.i want churn rate using churn count and total subscriptions
+
